@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1641810952 source:c:\users\denisa\desktop\c++\proiect_ip.1.5\main.cpp
+	<bits/stdc++.h>
+	"graphics.h"
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<string>
+	<string.h>
+	<cstring>
+	<map>
+	<vector>
+	<windows.h>
+	<sstream>
+	<iomanip>
+	<stdio.h>
+	<windows.h>
+
